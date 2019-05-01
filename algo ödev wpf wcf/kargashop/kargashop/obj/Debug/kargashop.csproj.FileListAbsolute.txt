@@ -1,0 +1,438 @@
+C:\Users\msn\source\repos\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\msn\source\repos\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\msn\source\repos\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\msn\source\repos\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\msn\Desktop\Mustidengelen\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\msn\Desktop\spet1\versiyon9-M\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\msn\Desktop\spet1\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (3)\wpfsond1\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\msn\Desktop\Mustidengelen\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (4)\wpf-borderless-itemssond\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (4)\düzgün sol menü\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\messageboxurun.g.cs
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\messageboxurun.baml
+C:\Users\msn\Desktop\Mustidengelen\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\messageboxurun.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\messageboxurun.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\kargashop\kargashop\obj\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\bin\Debug\kargashop.exe.config
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\bin\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\bin\Debug\kargashop.pdb
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.csprojAssemblyReference.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Abajururunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\acilanurun.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Anasayfaurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\iletisim.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Iletisimformu.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\MainWindow.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\messageboxurun.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Saaturunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Sifremiunuttum.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Takurunleri.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Yeniuyeol.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\App.g.cs
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop_MarkupCompile.lref
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\App.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Abajururunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\acilanurun.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Anahtarlikurunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Anasayfaurunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\iletisim.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Iletisimformu.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\MainWindow.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\messageboxurun.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Saaturunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Sifremiunuttum.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Takurunleri.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\Yeniuyeol.baml
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.g.resources
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.Properties.Resources.resources
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.csproj.GenerateResource.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.csproj.CoreCompileInputs.cache
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.exe
+C:\Users\Canavar\Desktop\New folder (6)\sepet\wpf-borderless-items\okul1\kargashop\kargashop\obj\Debug\kargashop.pdb

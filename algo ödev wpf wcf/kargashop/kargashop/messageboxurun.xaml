@@ -1,0 +1,28 @@
+﻿<Window x:Class="kargashop.messageboxurun"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kargashop"
+        mc:Ignorable="d"
+        Title="messageboxurun" Height="300" Width="500">
+    
+        <Grid Height="600">
+        <ScrollViewer VerticalScrollBarVisibility="Hidden">
+            <Grid x:Name="bckgrid" Height="1200">
+                <Grid.Background>
+                    <ImageBrush x:Name="ibrush" />
+                </Grid.Background>
+                
+            </Grid>
+            
+        </ScrollViewer>
+
+
+
+
+
+    </Grid>
+    
+    
+</Window>

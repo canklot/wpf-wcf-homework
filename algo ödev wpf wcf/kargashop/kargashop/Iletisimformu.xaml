@@ -1,0 +1,21 @@
+﻿<Page x:Class="kargashop.Iletisimformu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:kargashop"
+      mc:Ignorable="d" 
+      d:DesignHeight="1200" d:DesignWidth="360"
+      Title="Iletisimformu">
+
+    <Grid>
+        <TextBox Text="Adı Soyadı" Margin="10,39,10,1115" />
+        <TextBox Text="E-Mail" Margin="10,90,10,1050" />
+        <TextBox Text="Telefon" Margin="10,155,10,984" />
+        <TextBox Text="Konu" Margin="10,221,10,928" />
+        <TextBox Text="Mesaj" Margin="10,277,10,850" />
+        <Label Content=" Rastgele harfler" Margin="117,355,111,793" Background="White" />
+        <TextBox Text=" Güvenlik kodunu giriniz" Margin="10,412,10,724" />
+        <Button x:Name ="Formgonder" Content=" Gönder" Margin="10,481,10,676" Click="Formgonder_Click" />
+    </Grid>
+</Page>

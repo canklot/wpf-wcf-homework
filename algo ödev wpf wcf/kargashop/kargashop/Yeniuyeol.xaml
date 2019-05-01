@@ -1,0 +1,23 @@
+﻿<Page x:Class="kargashop.Yeniuyeol"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:kargashop"
+      mc:Ignorable="d" 
+      d:DesignHeight="1200" d:DesignWidth="360"
+      Title="Yeniuyeol">
+
+    <Grid Height="1200">
+        <TextBox x:Name="adt" Text="Adınız" Height="40" Margin="85,75,95,1085"/>
+        <TextBox x:Name="soyadt" Text="Soyadınız" Height="40" Margin="85,130,95,1030"/>
+        <TextBox x:Name="emailt" Text="E-Mail" Height="40" Margin="85,185,95,975"/>
+        <TextBox x:Name="sifret" Text="Şifre" Height="40" Margin="85,240,95,920"/>
+        <TextBox x:Name="sifretekrart" Text="Şifre Tekrar" Height="40" Margin="85,295,95,865"/>
+        <TextBox x:Name="ceptelt" Text="Cep Telefonu" Height="40" Margin="85,350,95,810"/>
+        <TextBox x:Name="guvenlikt" Text="Güvenlik kodunu giriniz" Height="40" Margin="85,435,95,725"/>
+        <Label x:Name="guvenlikl" Content="Güvenlik kodu " Height="40" Width="150" Margin="100,395,110,765"/>
+        <Button Content="Üye Ol " Height="40" Width="150" Margin="100,485,110,675" Click="Button_Click"/>
+
+    </Grid>
+</Page>

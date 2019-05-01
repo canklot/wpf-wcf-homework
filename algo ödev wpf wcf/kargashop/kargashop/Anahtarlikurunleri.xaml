@@ -1,0 +1,74 @@
+﻿<Page x:Class="kargashop.Anahtarlikurunleri"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:kargashop"
+      mc:Ignorable="d" 
+      d:DesignHeight="1200" d:DesignWidth="360"
+      Title="Anahtarlikurunleri">
+
+    <Page.Resources>
+        <Storyboard x:Key="urunpenceresiac">
+            <ThicknessAnimation Storyboard.TargetProperty="Margin" From="-1800,0,0,0" To="0,0,0,0" DecelerationRatio=".0" Duration="0:0:0:0" />
+        </Storyboard>
+        <Storyboard x:Key="urunpenceresikapa">
+            <ThicknessAnimation Storyboard.TargetProperty="Margin" From="0,0,0,0" To="-1800,0,0,0" DecelerationRatio=".0" Duration="0:0:0:0"/>
+        </Storyboard>
+    </Page.Resources>
+
+    <Grid>
+        <DockPanel Height="200" Width="180" HorizontalAlignment="Left" Margin="-2,105,0,895">
+            <Button x:Name="urun1" Click="urun1_Click" Width="150" Height="150" HorizontalAlignment="Left" Margin="20" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="rsm/934an.jpg"/>
+                </Button.Background>
+            </Button>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,130,5,1020">
+            <Label x:Name="urun1ad" Content="934 Anahtarlık" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="108" Height="50" Margin="0,0,0,-0.4" />
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,180,5,970">
+            <Label x:Name="urun1fiyat" Content="15 TL" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="108" Height="50" Margin="0,0,0,-0.4" />
+        </DockPanel>
+        <DockPanel Height="200" Width="180" HorizontalAlignment="Left" Margin="3,325,0,675">
+            <Button x:Name="urun2" Click="urun2_Click" Width="150" Height="150" HorizontalAlignment="Left" Margin="20" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="rsm/babygrootan.jpg"/>
+                </Button.Background>
+            </Button>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,355,5,795">
+            <Label x:Name="urun2ad" Content="Baby Groot Anahtarlık" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="135" Margin="0,0,0,-0.4" Height="50"/>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,405,5,745">
+            <Label x:Name="urun2fiyat" Content="15 TL" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="108" Height="50" Margin="0,0,0,-0.4"/>
+        </DockPanel>
+        <DockPanel Height="200" Width="180" HorizontalAlignment="Left" Margin="2,755,0,245">
+            <Button x:Name="urun4" Click="urun4_Click" Width="150" Height="150" HorizontalAlignment="Left" Margin="20" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="rsm/captainamericaan.jpg"/>
+                </Button.Background>
+            </Button>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,780,5,370">
+            <Label x:Name="urun4ad" Content="Captain America Anahtarlık" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="155" Margin="0,0,0,-0.4" Height="50"/>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,830,5,320">
+            <Label x:Name="urun4fiyat" Content="15 TL" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="108" Height="50" Margin="0,0,0,-0.4"/>
+        </DockPanel>
+        <DockPanel Height="200" Width="180" HorizontalAlignment="Left" Margin="3,530,0,470">
+            <Button x:Name="urun3" Click="urun3_Click" Width="150" Height="150" HorizontalAlignment="Left" Margin="20" BorderBrush="{x:Null}">
+                <Button.Background>
+                    <ImageBrush ImageSource="rsm/temelreisan.jpg"/>
+                </Button.Background>
+            </Button>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,555,5,595">
+            <Label x:Name="urun3ad" Content="Temel Reis Anahtarlık" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="125" Margin="0,0,0,-0.4" Height="50"/>
+        </DockPanel>
+        <DockPanel Height="50" Width="180" HorizontalAlignment="Right" Margin="0,605,5,545">
+            <Label x:Name="urun3fiyat" Content="15 TL" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="108" Height="50" Margin="0,0,0,-0.4"/>
+        </DockPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D1EB68F-66A1-4B70-9D5A-9DBF5C98715A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>kargashop</RootNamespace>
+    <AssemblyName>kargashop</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="acilanurun.xaml.cs">
+      <DependentUpon>acilanurun.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Anahtarlikurunleri.xaml.cs">
+      <DependentUpon>Anahtarlikurunleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Anasayfaurunleri.xaml.cs">
+      <DependentUpon>Anasayfaurunleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Iletisimformu.xaml.cs">
+      <DependentUpon>Iletisimformu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="messageboxurun.xaml.cs">
+      <DependentUpon>messageboxurun.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Saaturunleri.xaml.cs">
+      <DependentUpon>Saaturunleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Sifremiunuttum.xaml.cs">
+      <DependentUpon>Sifremiunuttum.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Takurunleri.xaml.cs">
+      <DependentUpon>Takurunleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Yeniuyeol.xaml.cs">
+      <DependentUpon>Yeniuyeol.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Abajururunleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="acilanurun.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Anahtarlikurunleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Anasayfaurunleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="iletisim.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Iletisimformu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Abajururunleri.xaml.cs">
+      <DependentUpon>Abajururunleri.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="iletisim.xaml.cs">
+      <DependentUpon>iletisim.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="messageboxurun.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Saaturunleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Sifremiunuttum.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Takurunleri.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Yeniuyeol.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Connected Services\ServiceReference1\kargashop.ServiceReference1.bilgigetirResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference1\Service1.wsdl" />
+    <None Include="Connected Services\ServiceReference1\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\deadpoolfigur.jpg" />
+    <Resource Include="rsm\harrypfigur.jpg" />
+    <Resource Include="rsm\imzatshirt.jpg" />
+    <Resource Include="rsm\marveltshirt.jpg" />
+    <Resource Include="rsm\stargecelambasi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\gameofthronesab.jpg" />
+    <Resource Include="rsm\starwarsab.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\mavitakimab.jpg" />
+    <Resource Include="rsm\okulab.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\lotrab.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\934an.jpg" />
+    <Resource Include="rsm\babygrootan.jpg" />
+    <Resource Include="rsm\captainamericaan.jpg" />
+    <Resource Include="rsm\temelreisan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\batmansa.jpg" />
+    <Resource Include="rsm\friendssa.jpg" />
+    <Resource Include="rsm\gameofthronessa.jpg" />
+    <Resource Include="rsm\kurabiyecanavarisa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\gameofthronestk.jpg" />
+    <Resource Include="rsm\herotk.jpg" />
+    <Resource Include="rsm\pandatk.jpg" />
+    <Resource Include="rsm\saturntk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\sagmenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\uyeliksiz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\3cizgi.bmp" />
+    <Resource Include="rsm\adam.bmp" />
+    <Resource Include="rsm\ana.jpg" />
+    <Resource Include="rsm\anasayfa.bmp" />
+    <Resource Include="rsm\arama.bmp" />
+    <Resource Include="rsm\iletişim.bmp" />
+    <Resource Include="rsm\sepetim.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\ustorta.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\solmenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\unuttum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\iletisim.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\iletforum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\ok.bmp" />
+    <Resource Include="rsm\sepetbos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\aramatepe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\buyutecgri.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\üyeliksiz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\sepettepe.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\girilmismenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\stargecelambasiaciklamasi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\0.PNG" />
+    <Resource Include="rsm\1.PNG" />
+    <Resource Include="rsm\10.PNG" />
+    <Resource Include="rsm\11.PNG" />
+    <Resource Include="rsm\12.PNG" />
+    <Resource Include="rsm\13.PNG" />
+    <Resource Include="rsm\14.PNG" />
+    <Resource Include="rsm\15.PNG" />
+    <Resource Include="rsm\16.PNG" />
+    <Resource Include="rsm\17.PNG" />
+    <Resource Include="rsm\18.PNG" />
+    <Resource Include="rsm\19.PNG" />
+    <Resource Include="rsm\2.PNG" />
+    <Resource Include="rsm\20.PNG" />
+    <Resource Include="rsm\3.PNG" />
+    <Resource Include="rsm\4.PNG" />
+    <Resource Include="rsm\5.PNG" />
+    <Resource Include="rsm\6.PNG" />
+    <Resource Include="rsm\7.PNG" />
+    <Resource Include="rsm\8.PNG" />
+    <Resource Include="rsm\9.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\00.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\111.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\satınal.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rsm\kırmızılı.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
